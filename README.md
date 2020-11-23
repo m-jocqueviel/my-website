@@ -1,2 +1,2 @@
 # my-website
-My personal pro website
+My first pro website, learning basic html and css.
